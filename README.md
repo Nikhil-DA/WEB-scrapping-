@@ -46,7 +46,6 @@ Wikipedia Source:
    python scrape_companies.py
    ```
 
----
 
 ## 📂 Output
 
