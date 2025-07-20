@@ -27,38 +27,31 @@ Wikipedia Source:
 ---
 
 ## 🧪 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/indian-companies-wiki-scraper.git
-   cd indian-companies-wiki-scraper
 ````
+1. Clone the repository:
+  
 
 2. Install dependencies:
 
-   ```bash
    pip install pandas beautifulsoup4 requests
-   ```
 
 3. Run the script:
 
-   ```bash
-   python scrape_companies.py
-   ```
+   python "Scrapping Data From a real website.ipynb"
+ ````  
 
 
 ## 📂 Output
 
-* Cleaned CSV file: `indian_companies_cleaned.csv`
+* Cleaned CSV file: `largest_companies.csv`
 * Raw scraped table
 * Pandas DataFrame ready for further analysis or loading into Power BI / Excel
 
 
----
 
 ## 👤 Author
 
 **Nikhil Chauhan**
 *Connect on GitHub or LinkedIn for more data projects!*
 
-```
+
